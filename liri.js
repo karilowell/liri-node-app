@@ -1,8 +1,8 @@
 // client id
 
-// b193cc00a3654dcd9345b05507041ef1
+// b1
 
-// Client Secret 71a7d48f101e43be963cce62a6c04317
+// Client Secret 7
 
 // /npm install moment --save
 // //npm install --save Node-Spotify-API
@@ -34,7 +34,7 @@ var timeStamp = moment().format("LT, MMM Do, YYYY")
 // Present user with options and get input
 function askQuestions(){
     
-    // Call Liri :)
+    // Call Liri 
     liriIn();
 
     inquirer.prompt([
